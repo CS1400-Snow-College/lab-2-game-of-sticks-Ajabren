@@ -1,0 +1,15 @@
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\bin\Debug\net8.0\lab-2-game-of-sticks-Ajabren.exe
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\bin\Debug\net8.0\lab-2-game-of-sticks-Ajabren.deps.json
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\bin\Debug\net8.0\lab-2-game-of-sticks-Ajabren.runtimeconfig.json
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\bin\Debug\net8.0\lab-2-game-of-sticks-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\bin\Debug\net8.0\lab-2-game-of-sticks-Ajabren.pdb
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\lab-2-game-of-sticks-Ajabren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\lab-2-game-of-sticks-Ajabren.AssemblyInfoInputs.cache
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\lab-2-game-of-sticks-Ajabren.AssemblyInfo.cs
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\lab-2-game-of-sticks-Ajabren.csproj.CoreCompileInputs.cache
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\lab-2-game-of-sticks-Ajabren.sourcelink.json
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\lab-2-game-of-sticks-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\refint\lab-2-game-of-sticks-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\lab-2-game-of-sticks-Ajabren.pdb
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\lab-2-game-of-sticks-Ajabren.genruntimeconfig.cache
+C:\Users\EVOO\my-code-dir\lab-2-game-of-sticks-Ajabren\obj\Debug\net8.0\ref\lab-2-game-of-sticks-Ajabren.dll
